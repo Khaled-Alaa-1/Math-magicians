@@ -1,6 +1,6 @@
-# capstoneAPI
-
 <a name="readme-top"></a>
+
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -14,6 +14,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -23,37 +24,27 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Pokemon <a name="list structure"></a>
+# 📖 math-magicians <a name="about-project"></a>
 
->**Pokemon!** This Pokedex is an application that catalogs information about the various species of Pokemon. Includes details such as the Pokemon's name, type, abilities, strengths y comments about it. [Here](https://drive.google.com/file/d/1W33wFQVJxVfYU6LJdRj7XASaYp8-MEYp/view) is the link to the video presentation 
+This is **math-magicians** site, created with React make a a calculation of the numbers.
 
-
-## 🛠 Built With <a name="built-with">
-
-- HTML
-- CSS
-- JavaScript
-
-</a>
+## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
+<details>
+  <summary>React</summary>
+  <summary>JavaScript</summary>
+</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[Good HTML ,CSS and JS practices]**
-- **[This repository includes linters]**
-
+- **Calculator component**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://pokemon-2ngc.onrender.com/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -66,16 +57,15 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- browser like google chrome
+- Code editor
+- Node.js
 
 ### Setup
 
-Clone this repository to your desired folder:
+Clone this repository to your desired folder by opening the terminal and running the following command:
 
-- clone the project using by running the following command :
-
-```
-git clone https://github.com/ahmedeid6842/API_Capstone.git
+```sh
+ git clone `https://github.com/StevenWafeek/math-magicians`
 
 ```
 
@@ -83,30 +73,51 @@ git clone https://github.com/ahmedeid6842/API_Capstone.git
 
 Install this project with:
 
- ```bash
+```sh
  npm install
+
 ```
 
 ### Usage
 
-To run this project and open the Pokemon run the following command : 
+To run the project:
 
-```bash
- npm run start
+Open the Project in your code editor and start Live Server inside the index.html file.
+
+### Run tests
+
+To run tests, run the following commands:
+
+For HTML linter errors:
+
+```sh
+ npx hint .
+
 ```
 
-### Test
+For CSS linter errors:
 
-To run the test run the following command : 
+```sh
+ npx stylelint "**/*.{css,scss}"
 
-```bash
- npm run test
 ```
 
+For Javascript linter errors:
 
+```sh
+ npx eslint .
+
+```
+
+### Deployment
+
+Deployed by GitHub Pages.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
+## 👥 Authors <a name="authors"></a>
 
 👤 **khaled alaa**
 
@@ -114,21 +125,16 @@ To run the test run the following command :
 - Twitter: [@Khaled86756991](https://twitter.com/Khaled86756991)
 - LinkedIn: [Khaled Alaa](https://www.linkedin.com/in/khaled-alaa-594bb9256/)
 
-👤 **Ahmed Eid**
-- GitHub: [ahmedeid6842](https://github.com/ahmedeid6842)
-- Twitter: [@ahmedeid2684](https://twitter.com/ahmedeid2684)
-- LinkedIn: [Ahmed Eid](https://www.linkedin.com/in/ahmed-eid-0018571b1/)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- FUTURE FEATURES -->
+## 🔭 Future milestone <a name="future-features"></a>
 
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[make the project more professional]**
+- make functionalty for culculations.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,9 +142,7 @@ To run the test run the following command :
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+Contributions, <a href="https://github.com/StevenWafeek/math-magicians/issues">Issues </a>, and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,8 +150,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
-Give a ⭐️ if you like this project!
+If you like this project please leave a star and a comment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -155,7 +158,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-  We would like to thank Microverse.
+I would like to thank Microverse to have this opportunity, and also thank you the code review team.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -165,6 +168,4 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](./MIT.md) licensed.
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="./MIT.md">back to top</a>)</p>
