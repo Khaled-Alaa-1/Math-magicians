@@ -65,7 +65,7 @@ In order to run this project you need:
 Clone this repository to your desired folder by opening the terminal and running the following command:
 
 ```sh
- git clone `https://github.com/StevenWafeek/math-magicians`
+ git clone `https://github.com/Khaled-Alaa-1/Math-magicians.git`
 
 ```
 
@@ -142,7 +142,7 @@ Deployed by GitHub Pages.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
-Contributions, <a href="https://github.com/StevenWafeek/math-magicians/issues">Issues </a>, and feature requests are welcome!
+Contributions, <a href="https://github.com/Khaled-Alaa-1/Math-magicians/issues">Issues </a>, and feature requests are welcome!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
