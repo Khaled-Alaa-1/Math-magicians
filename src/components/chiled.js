@@ -6,7 +6,6 @@ function Display({ value }) {
 
 Display.propTypes = {
   value: PropTypes.string.isRequired,
-
 };
 
 export default Display;
